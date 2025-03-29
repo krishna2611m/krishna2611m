@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krishna2611m
 - 👀 I’m interested in Linux, Cybersecurity, Cloud Administration 
-- 🌱 I’m currently learning Cybersecurity 
+- 🌱 I’m currently learning Cybersecurity and different Cloud Infra(GCP, Azure, AWS)
 - 💞️ I’m looking to collaborate on the current trends and advancements related to IT infra, security, network.
 
   My skills include
